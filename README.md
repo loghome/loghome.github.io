@@ -1,2 +1,4 @@
-loghome
-=======
+Duncan Log Homes
+===
+
+Coming soon.  
